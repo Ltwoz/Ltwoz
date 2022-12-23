@@ -2,6 +2,7 @@
     <img src="https://lanyard-profile-readme.vercel.app/api/576422773694660608"/>
 </a>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/406803233466613780)](https://discord.com/users/406803233466613780)
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ltwoz&line_height=21&theme=dracula" alt="Ltwoz" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ltwoz&" alt="Ltwoz" />
 
