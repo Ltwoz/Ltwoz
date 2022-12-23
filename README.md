@@ -1,5 +1,5 @@
 <a href="https://github.com/Snowf4ke">
-    <img src="https://lanyard-profile-readme.vercel.app/api/576422773694660608"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/406803233466613780"/>
 </a>
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ltwoz&line_height=21&theme=dracula" alt="Ltwoz" />
