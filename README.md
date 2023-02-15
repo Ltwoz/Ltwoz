@@ -1,7 +1,4 @@
 Hi 👋 My name is Warrapat Choedchusakunrat
-==========================================
-
-Web Developer
 
 * 🌍  I'm based in Chiang Mai, Thailand
 * 🧠  I'm learning Next.js and Flutter
