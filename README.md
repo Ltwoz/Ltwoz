@@ -69,11 +69,7 @@
   <a href="https://www.postman.com/downloads/" target="_blank">
  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
 </a>
-</p>
-
-### Infra:
-<p align="left">
- <a href="https://vercel.com/dashboard" target="_blank">
+    <a href="https://vercel.com/dashboard" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/>
 </a>
  <a href="https://www.netlify.com" target="_blank">
@@ -82,7 +78,13 @@
  <a href="https://www.heroku.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/>
 </a>
- </p>
+    <a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
+</a>
+</p>
   
 ### Database:
 <p align="left">
@@ -92,16 +94,6 @@
 <a href="https://www.mongodb.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> 
 </a>
-
-### Version control:
-<p align="left">
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
-</a>
-</p>
 
 <!-- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ltwoz&line_height=21&theme=dracula" alt="Ltwoz" /> -->
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ltwoz&" alt="Ltwoz" /> -->
