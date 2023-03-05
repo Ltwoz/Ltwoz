@@ -3,9 +3,6 @@
 * 🌍  I'm based in Chiang Mai, Thailand
 * 🧠  I'm learning Next.js and Flutter
 
-[id1]: ## "your hover text"
-This is a [hover text][id1] example.
-
 <!-- ### Skills
 
 <p align="left">
