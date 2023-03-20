@@ -84,6 +84,9 @@
 <a href="https://github.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" alt="github" title="Github" width="40" height="40"/>
 </a>
+    <a href="https://docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker" width="40" height="40"/>
+</a>
 </p>
   
 ### Database:
