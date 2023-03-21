@@ -1,25 +1,10 @@
 # Hi 👋 My name is Warrapat Choedchusakunrat
 
-* 🌍  I'm based in Chiang Mai, Thailand
-* 🧠  I'm learning Next.js and Flutter
+-   🌍 I'm based in Chiang Mai, Thailand
+-   🧠 I'm learning Next.js and Flutter
 
-<!-- ### Skills
+### Languages :
 
-<p align="left">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:1000px;" />
-</p> -->
-
-### Languages & Framework & Libary:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=html" alt="html5" title="HTML" width="40" height="40"/> 
@@ -36,26 +21,33 @@
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="Node.js" width="40" height="40"/> 
   </a> 
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py" alt="python" title="Python" width="40" height="40"/>
+  </a>
+  
+### Framework & Libary :
+
+<p align="left">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="react" title="React" width="40" height="40"/> 
   </a> 
-   <a href="https://redux.js.org" target="_blank">
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" title="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=redux" alt="redux" title="Redux" width="40" height="40"/> 
   </a> 
   <a href="https://expressjs.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=express" alt="express" title="Express.js" width="40" height="40"/> 
   </a> 
-  <a href="https://nextjs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" title="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" alt="python" title="Python" width="40" height="40"/>
+  <a href="https://sass.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=scss" alt="scss" title="SCSS" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind css" title="Tailwind CSS" width="40" height="40"/>
   </a>
   
-### Tools:
+### Tools :
   <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40"/>
@@ -89,7 +81,7 @@
 </a>
 </p>
   
-### Database:
+### Database :
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank"> 
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL" width="40" height="40"/> 
