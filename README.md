@@ -86,6 +86,10 @@
       <a href="https://docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker" width="40" height="40"/>
   </a>
+  </a>
+      <a href="https://nginx.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" title="Nginx" width="40" height="40"/>
+  </a>
 </p>
   
 ### Database :
