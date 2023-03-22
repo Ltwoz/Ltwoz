@@ -4,7 +4,7 @@
 -   🧠 I'm learning Flutter and DevOps stuff
 -   🔭 Currently working on Main project
 
-### Languages :
+### Languages
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=dart" alt="dart" title="Dart" width="40" height="40"/>
   </a>
   
-### Framework & Libary :
+### Framework & Libary
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
@@ -54,7 +54,8 @@
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind css" title="Tailwind CSS" width="40" height="40"/>
   </a>
   
-### Tools :
+### Tools
+  
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40"/>
@@ -92,7 +93,8 @@
   </a>
 </p>
   
-### Database :
+### Database
+
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL" width="40" height="40"/> 
