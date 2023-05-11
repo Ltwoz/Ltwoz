@@ -1,8 +1,8 @@
 # Hi 👋 My name is Warrapat Choedchusakunrat
 
 -   🌍 I'm based in Chiang Mai, Thailand
--   🧠 I'm learning Flutter and DevOps stuff
--   🔭 Currently working on Main project
+-   🧠 I'm learning Golang and backend stuff
+-   🔭 Currently studying
 
 ### Languages
 
