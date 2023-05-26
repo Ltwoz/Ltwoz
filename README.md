@@ -103,3 +103,7 @@
 
 <!-- <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ltwoz&line_height=21&theme=dracula" alt="Ltwoz" /> -->
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ltwoz&" alt="Ltwoz" /> -->
+
+### Connect with Me
+- **Email:** warrapat.cho@gmail.com
+- **Discord:** [Ltz.#9792](https://discord.com/users/406803233466613780)
