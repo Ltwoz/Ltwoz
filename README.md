@@ -1,4 +1,4 @@
-# Hi 👋 My name is Warrapat Choedchusakunrat
+# Hi 👋 I'm Ltwoz
 
 -   🌍 I'm based in Chiang Mai, Thailand
 -   🧠 I'm learning Golang and backend stuff
