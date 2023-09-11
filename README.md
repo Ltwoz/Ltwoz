@@ -44,6 +44,9 @@
   <a href="https://expressjs.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=express" alt="express" title="Express.js" width="40" height="40"/> 
   </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" title="NestJS" width="40" height="40"/>
+  </a>
   <a href="https://sass.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=scss" alt="scss" title="SCSS" width="40" height="40"/>
   </a>
