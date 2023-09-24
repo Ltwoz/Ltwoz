@@ -65,6 +65,9 @@
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB" width="40" height="40"/> 
   </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" title="PostgreSQL" width="40" height="40"/> 
+  </a>
 </p>
   
 ### Tools
