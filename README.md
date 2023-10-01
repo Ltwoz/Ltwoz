@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ltwoz
 
 -   🌍 I'm based in Chiang Mai, Thailand
--   🧠 I'm learning Golang and backend stuff
+-   🧠 I'm currently learning Backend and Machine Learning
 -   🔭 Currently studying
 
 ### Languages
