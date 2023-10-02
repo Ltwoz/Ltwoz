@@ -84,3 +84,9 @@
 ### Connect with Me
 - **Email:** warrapat.cho@gmail.com
 - **Discord:** [Ltz.#9792](https://discord.com/users/406803233466613780)
+
+<!-- ---
+
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ltwoz&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br>
+</div> -->
