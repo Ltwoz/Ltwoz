@@ -1,7 +1,6 @@
 # Hi 👋 I'm Ltwoz
 
 -   🌍 I'm based in Chiang Mai, Thailand
--   🧠 I'm currently learning Backend and Machine Learning
 -   🔭 Currently studying
 
 ### Languages
@@ -25,9 +24,9 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" alt="python" title="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.go.dev" target="_blank">
+<!--   <a href="https://www.go.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=go" alt="go" title="Go" width="40" height="40"/>
-  </a>
+  </a> -->
 </p>
   
 ### Frameworks & Libraries
