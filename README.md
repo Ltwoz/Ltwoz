@@ -27,6 +27,9 @@
 <!--   <a href="https://www.go.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=go" alt="go" title="Go" width="40" height="40"/>
   </a> -->
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" alt="c#" title="C#" width="40" height="40"/>
+  </a>
 </p>
   
 ### Frameworks & Libraries
@@ -38,6 +41,9 @@
   <a href="https://nextjs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" title="Next.js" width="40" height="40"/>
   </a>
+  <a href="https://angular.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=angular" alt="angular" title="Angular" width="40" height="40"/>
+  </a>
   <a href="https://redux.js.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=redux" alt="redux" title="Redux" width="40" height="40"/> 
   </a> 
@@ -47,8 +53,8 @@
   <a href="https://nestjs.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" title="NestJS" width="40" height="40"/>
   </a>
-  <a href="https://sass.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=scss" alt="scss" title="SCSS" width="40" height="40"/>
+  <a href="https://dotnet.microsoft.com/en-us target="_blank">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".net" title=".NET" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind css" title="Tailwind CSS" width="40" height="40"/>
