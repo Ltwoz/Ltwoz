@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ltwoz
 
--   🌍 I'm based in Chiang Mai, Thailand
+-   🌍 Based in Chiang Mai, Thailand
 -   🔭 Currently studying
 
 ### Languages
